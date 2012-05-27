@@ -17,8 +17,8 @@
   "scripts": {
     "test": "make test"
   },
-  "devEependencies": {
-    "whiskey": ">= 0.2.2"
+  "devDependencies": {
+    "whiskey": ">= 0.5.9"
   },
   "engines": {
     "node": "*"
