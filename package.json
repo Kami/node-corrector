@@ -20,6 +20,9 @@
   "devDependencies": {
     "whiskey": ">= 0.5.9"
   },
+  "scripts": {
+    "test": "./scripts/tests.sh"
+  },
   "engines": {
     "node": "*"
   }
