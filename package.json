@@ -1,7 +1,7 @@
 {
   "name": "corrector",
   "description": "A really simple spelling corrector module based on the levenshtein distance between words.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://www.github.com/Kami/corrector",
   "repository": {
     "type": "git",
